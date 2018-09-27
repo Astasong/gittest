@@ -6,8 +6,5 @@
 7777
 8888
 master
-<<<<<<< HEAD
-
-=======
-dev
->>>>>>> dev
+qqqqqqqqq
+aaa
